@@ -4,7 +4,7 @@
 
 I'm a passionate developer with an interest in Web Development.
 
-- 🔭 I’m currently working on Upwork-Clon.
+- 🔭 I’m currently working on Upwork-Clone.
 - 🌱 I’m currently learning backend.
 - 👯 I’m looking to collaborate on mega projects.
 - 💬 Ask me about frontend and backend.
