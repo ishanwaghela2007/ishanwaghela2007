@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with an interest in Web Development.
+I'm a passionate Software Developer with an interest in Cloud|Devops|System Desgin.
 
 - 🔭 I’m currently working on Upwork-Clone.
 - 🌱 I’m currently learning backend.
