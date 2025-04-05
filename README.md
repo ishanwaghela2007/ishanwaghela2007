@@ -13,7 +13,7 @@ I'm a passionate developer with an interest in Web Development.
 
 ## Skills
 
-- **Languages:** c/c++/javascript.
+- **Languages:** c/c++/javascript/Typescript/Learning Golang.
 - **Frameworks:** React/Next.js/tailwind css/bootstrap/shardCN.
 - **Tools:** cursor/vs code/chatgpt.
 
