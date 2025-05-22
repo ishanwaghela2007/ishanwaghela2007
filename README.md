@@ -14,7 +14,7 @@ I'm a passionate Software Developer with an interest in Cloud|Devops|System Desg
 
 ## Skills
 
-- **Languages:** c/c++/javascript/Typescript/Learning Golang.
+- **Languages:** c/c++/javascript/Typescript/Learning Golang/java/python.
 - **Frameworks:** React/Next.js/tailwind css/bootstrap/shardCN.
 - **Tools:** cursor/vs code/chatgpt.
 
