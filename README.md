@@ -4,6 +4,12 @@
 💡 Building scalable systems, real-time apps & developer tools  
 📍 Mumbai, India  
 
+## 🧠 About Me
+- ⚙️ Backend-focused with experience in **microservices & system design**
+- 🚀 Built a freelancing platform with real-time chatbot & escrow system  
+- 📈 Currently improving **DSA + low-level design**
+- 🛠️ Exploring **high-performance systems (Go, Kafka, Redis)**
+
 📸 Instagram: [@cyb3r.ishanwaghela](https://www.instagram.com/cyb3r.ishanwaghela?igsh=N3prenE0bjkzMjg2)
 
 # 💻 Tech Stack:
